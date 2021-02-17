@@ -1,3 +1,5 @@
 # nodejs-api-rest
 
-API criada com nodejs, express e mysql
+
+Api desenvolvida a partir do curso da Alura como forma de estudo e desenvolvimento profissional.
+
