@@ -13,7 +13,7 @@ class Atendimento {
         const validacoes = [
             {
                 nome: 'data',
-                valdo: dataEhValida,
+                valido: dataEhValida,
                 mensagem: 'Data deve ser maior ou igual a data atual'
             },
             {
